@@ -1,0 +1,25 @@
+{
+  "name": "infinity-random-number",
+  "version": "1.0.0",
+  "description": "Random number generator for browsers",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dinuinfinity/infinity-random-number.git"
+  },
+  "keywords": [
+    "Random",
+    "Number",
+    "Generator"
+  ],
+  "author": "Dinu Infinity",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dinuinfinity/infinity-random-number/issues"
+  },
+  "homepage": "https://github.com/dinuinfinity/infinity-random-number#readme"
+}
